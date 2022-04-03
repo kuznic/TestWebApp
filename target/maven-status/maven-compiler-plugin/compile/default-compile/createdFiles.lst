@@ -1,0 +1,17 @@
+tacos\data\UserRepository.class
+tacos\Taco.class
+tacos\data\OrderRepository.class
+tacos\security\UserRepositoryUserDetailsService.class
+tacos\User.class
+tacos\security\RegistrationForm.class
+tacos\data\IngredientRepository.class
+tacos\security\RegistrationController.class
+tacos\Ingredient.class
+tacos\Order.class
+tacos\security\SecurityConfig.class
+tacos\data\TacoRepository.class
+tacos\TacoCloudApplication.class
+tacos\web\DesignTacoController.class
+tacos\web\WebConfig.class
+tacos\utils\TacoType.class
+tacos\web\OrderController.class
